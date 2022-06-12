@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16618569",
+      "name": "me",
+      "font_class": "me",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "16618732",
+      "name": "lock",
+      "font_class": "lock",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "16619405",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    }
+  ]
+}
